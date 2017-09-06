@@ -19,7 +19,7 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Danielle Leong](http://danielleleong.com/).
 - [Erica Joy Baker](http://www.ericabaker.com/).
 - [Karen Catlin](https://karencatlin.com/).
-- [Marko Rogers](https://twitter.com/polotek/).
+- [Marco Rogers](https://twitter.com/polotek/).
 - [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
 
 ## Organizations
