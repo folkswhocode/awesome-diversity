@@ -33,7 +33,7 @@ Organizations bringing diversity to tech.
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
 - [Teens Exploring Technology](http://exploringtech.org/).
-- [Women Tech Makers](https://www.womentechmakers.com/).
+- [Women Techmakers](https://www.womentechmakers.com/).
 
 ## Talks
 
