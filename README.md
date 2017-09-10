@@ -32,8 +32,8 @@ Organizations bringing diversity to tech.
 - [Django Girls](https://djangogirls.org/).
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
-- [TLA Women In Tech](http://tlawomenintech.org/).
 - [Teens Exploring Technology](http://exploringtech.org/).
+- [TLA Women In Tech](http://tlawomenintech.org/).
 - [Women Techmakers](https://www.womentechmakers.com/).
 
 ## Talks
