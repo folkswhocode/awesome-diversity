@@ -1,6 +1,6 @@
 # Awesome Diversity
 
-:sparkles: A curated list of amazingly awesome articles, websites and resources about diversity on technology. :sparkles:
+:sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
 
 **Always work in progress.**
 
