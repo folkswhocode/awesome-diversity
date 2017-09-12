@@ -30,6 +30,7 @@ Organizations bringing diversity to tech.
 - [Bridge Troll](https://www.bridgetroll.org/).
 - [Diversity Charter](http://diversitycharter.org/).
 - [Django Girls](https://djangogirls.org/).
+- [Girls Who Code](https://girlswhocode.com/).
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
 - [Teens Exploring Technology](http://exploringtech.org/).
