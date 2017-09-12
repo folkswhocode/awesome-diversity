@@ -17,4 +17,6 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the resource.
 
+Feel free to add yourself to the [contributors list](../CONTRIBUTORS.md) (in alphabetical order) when you add a contribution. Use the following format: `[Your Name](link)`. We want everyone to know the wonderful group of people who helped create this list.
+
 Thank you for your suggestions! :heart:
