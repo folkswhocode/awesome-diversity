@@ -24,6 +24,7 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Kimberly Bryant](https://twitter.com/6gems).
 - [Marco Rogers](https://twitter.com/polotek/).
 - [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
+- [Sarah Mei](https://twitter.com/sarahmei/).
 - [Tracy Chou](https://twitter.com/triketora).
 
 ## Organizations
