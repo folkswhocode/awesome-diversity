@@ -68,4 +68,4 @@ Talks and presentations about diversity, consensual software and safe communitie
 
 ## Contributing
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the [list of contributors](CONTRIBUTORS.md) of this repository.
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
