@@ -7,6 +7,7 @@
 ## Contents
 
 - [Advocates](#advocates)
+- [Ally Resources](#ally-resources)
 - [Organizations](#organizations)
 - [Posts](#posts)
 - [Talks](#talks)
@@ -27,6 +28,12 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
 - [Sarah Mei](https://twitter.com/sarahmei/).
 - [Tracy Chou](https://twitter.com/triketora).
+
+## Ally Resources
+
+The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
+
+- [Resources For Allies by Lara Hogan](https://github.com/larahogan/ally-resources).
 
 ## Organizations
 
@@ -50,6 +57,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [How to build inclusive culture by Nicole Sanchez](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1).
 - [Racial bias at tech companies is real by Suzannah Weiss](http://www.complex.com/life/2016/03/tech-diversity-problem).
 - [True Diversity Is Intersectional by Ellen Pao](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882).
+- [What Does Sponsorship Look Like? by Lara Hogan](http://larahogan.me/blog/what-sponsorship-looks-like/).
 - [Why Diverse Teams Matter by Brad McLain, Catherine Ashcraft and Lucy Sanders](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter).
 - [Why I Care About Diversity in Tech by Tracy Chou](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532).
 
