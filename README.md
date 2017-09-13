@@ -28,6 +28,8 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
 - [Sarah Mei](https://twitter.com/sarahmei/).
 - [Tracy Chou](https://twitter.com/triketora).
+- [Cindy Gallop](https://twitter.com/cindygallop).
+- [Karolina Szczur](https://twitter.com/fox).
 
 ## Ally Resources
 
@@ -49,6 +51,7 @@ Organizations bringing diversity to tech.
 - [Teens Exploring Technology](http://exploringtech.org/).
 - [TLA Women In Tech](http://tlawomenintech.org/).
 - [Women Techmakers](https://www.womentechmakers.com/).
+- [Project Include](http://projectinclude.org/).
 
 ## Posts
 Both articles and posts on diversity and inclusiveness in technology.
@@ -60,6 +63,12 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [What Does Sponsorship Look Like? by Lara Hogan](http://larahogan.me/blog/what-sponsorship-looks-like/).
 - [Why Diverse Teams Matter by Brad McLain, Catherine Ashcraft and Lucy Sanders](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter).
 - [Why I Care About Diversity in Tech by Tracy Chou](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532).
+- [Why we shouldn’t underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/)
+- ThoughtWorks' [Insights on Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
+  - [Inclusion is Everyone’s Business: Q&A for Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1)
+  - [Inclusion is Everyone's Business: Q&A for Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies)
+- [Women and Minorities Are Penalized for Promoting Diversity by Stefanie K. Johnson and David R. Hekman](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
+- [Building Inclusive Communities by Karolina Szczur](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba)
 
 ## Talks
 
