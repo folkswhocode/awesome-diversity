@@ -16,20 +16,7 @@
 
 People who publicly supports and empowers underrepresented groups in tech.
 
-- [Anil Dash](http://anildash.com/).
-- [Brianna Wu](https://twitter.com/spacekatgal/).
-- [Danielle Leong](http://danielleleong.com/).
-- [Ellen Pao](https://twitter.com/ekp?lang=es).
-- [Erica Joy Baker](http://www.ericabaker.com/).
-- [Freada Klein](https://twitter.com/TheRealFreada).
-- [Karen Catlin](https://karencatlin.com/).
-- [Kimberly Bryant](https://twitter.com/6gems).
-- [Marco Rogers](https://twitter.com/polotek/).
-- [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
-- [Sarah Mei](https://twitter.com/sarahmei/).
-- [Tracy Chou](https://twitter.com/triketora).
-- [Cindy Gallop](https://twitter.com/cindygallop).
-- [Karolina Szczur](https://twitter.com/fox).
+- [FolksWhoCode](https://github.com/folkswhocode).
 
 ## Ally Resources
 
