@@ -29,6 +29,7 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Sarah Mei](https://twitter.com/sarahmei/).
 - [Tracy Chou](https://twitter.com/triketora).
 - [Cindy Gallop](https://twitter.com/cindygallop)
+- [Karolina Szczur](https://twitter.com/fox)
 
 ## Ally Resources
 
@@ -67,6 +68,7 @@ Both articles and posts on diversity and inclusiveness in technology.
   - [Inclusion is Everyone’s Business: Q&A for Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1)
   - [Inclusion is Everyone's Business: Q&A for Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies)
 - [Women and Minorities Are Penalized for Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
+- [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba)
 
 ## Talks
 
