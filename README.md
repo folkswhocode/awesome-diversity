@@ -28,8 +28,8 @@ People who publicly supports and empowers underrepresented groups in tech.
 - [Maxine Williams](https://www.linkedin.com/in/maxine-williams-7697485/).
 - [Sarah Mei](https://twitter.com/sarahmei/).
 - [Tracy Chou](https://twitter.com/triketora).
-- [Cindy Gallop](https://twitter.com/cindygallop)
-- [Karolina Szczur](https://twitter.com/fox)
+- [Cindy Gallop](https://twitter.com/cindygallop).
+- [Karolina Szczur](https://twitter.com/fox).
 
 ## Ally Resources
 
