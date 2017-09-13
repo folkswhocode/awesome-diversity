@@ -68,6 +68,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [9 Ways to Stop Hurting and Start Helping Women in Tech by Brianna Wu](https://www.youtube.com/watch?v=pUVhF3jDG08).
 - [Consensual Software: Prioritizing Trust & Safety for new features by Danielle Leong](https://www.youtube.com/watch?v=Ccw3VfE3P4M).
 - [Diversity in Tech: Building Inclusivity by Maxine Williamns](https://www.youtube.com/watch?v=XAiDY3k50D8).
+- [Software Art Thou: Lena Reinhard - Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o).
 
 ## Contributing
 
