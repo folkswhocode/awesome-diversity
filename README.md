@@ -67,8 +67,8 @@ Both articles and posts on diversity and inclusiveness in technology.
 - ThoughtWorks' [Insights on Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion is Everyone’s Business: Q&A for Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1)
   - [Inclusion is Everyone's Business: Q&A for Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies)
-- [Women and Minorities Are Penalized for Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
-- [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba)
+- [Women and Minorities Are Penalized for Promoting Diversity by Stefanie K. Johnson and David R. Hekman](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
+- [Building Inclusive Communities by Karolina Szczur](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba)
 
 ## Talks
 
