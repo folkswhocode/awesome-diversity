@@ -18,6 +18,6 @@ Please ensure your pull request adheres to the following guidelines:
 - The body of your commit message should contain a link to the resource.
 - **Additions to the [Advocates](https://github.com/folkswhocode/awesome-diversity#advocates) list must be requested by the person added, as discussed in [this issue](https://github.com/folkswhocode/awesome-diversity/issues/2).**
 
-Feel free to add yourself to the [contributors list](../CONTRIBUTORS.md) (in alphabetical order) when you add a contribution. Use the following format: `[Your Name](link)`. We want everyone to know the wonderful group of people who helped create this list.
+Feel free to add yourself to the [contributors list](../CONTRIBUTORS.md) (**in alphabetical order**) when you add a contribution. Use the following format: `[Your Name](link)`. We want everyone to know the wonderful group of people who helped create this list.
 
 Thank you for your suggestions! :heart:
