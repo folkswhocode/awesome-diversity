@@ -56,6 +56,7 @@ Both articles and posts on diversity and inclusiveness in technology.
   - [Inclusion is Everyone's Business: Q&A for Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies)
 - [Women and Minorities Are Penalized for Promoting Diversity by Stefanie K. Johnson and David R. Hekman](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity)
 - [Building Inclusive Communities by Karolina Szczur](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba)
+- [Software Development 450 Words per Minute by Tuukka Ojala, a Blind Software Engineer](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/)
 
 ## Talks
 
