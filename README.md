@@ -35,6 +35,7 @@ Organizations bringing diversity to tech.
 - [Girls Who Code](https://girlswhocode.com/).
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
+- [R-Ladies](https://rladies.org/).
 - [Teens Exploring Technology](http://exploringtech.org/).
 - [TLA Women In Tech](http://tlawomenintech.org/).
 - [Women Techmakers](https://www.womentechmakers.com/).
