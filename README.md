@@ -1,4 +1,4 @@
-# Awesome Diversity
+# Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 :sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
 
@@ -71,3 +71,9 @@ Talks and presentations about diversity, consensual software and safe communitie
 ## Contributing
 
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
+
+----------------------------
+
+This project is part of the [folkswhocode](https://github.com/folkswhocode) organization.
+This means that it adheres to its [core values](https://github.com/folkswhocode/base/blob/master/en/VALUES.md), [code of conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md) and
+[contributing guidelines](.github/CONTRIBUTING.md), and uses an equivalent [license](https://github.com/folkswhocode/base/blob/master/en/LICENSE).
