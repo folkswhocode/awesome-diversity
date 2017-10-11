@@ -33,13 +33,17 @@ Organizations bringing diversity to tech.
 - [Diversity Charter](http://diversitycharter.org/).
 - [Django Girls](https://djangogirls.org/).
 - [Girls Who Code](https://girlswhocode.com/).
+- [Hack the Hood](http://www.hackthehood.org/).
+- [Hidden Genius Project](http://www.hiddengeniusproject.org/).
+- [Project Include](http://projectinclude.org/).
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
 - [R-Ladies](https://rladies.org/).
+- [She++](https://sheplusplus.org).
 - [Teens Exploring Technology](http://exploringtech.org/).
 - [TLA Women In Tech](http://tlawomenintech.org/).
 - [Women Techmakers](https://www.womentechmakers.com/).
-- [Project Include](http://projectinclude.org/).
+
 
 ## Posts
 Both articles and posts on diversity and inclusiveness in technology.
