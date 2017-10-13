@@ -71,8 +71,8 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [True Diversity Is Intersectional by Ellen Pao](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882).
 - [Why Diverse Teams Matter by Brad McLain, Catherine Ashcraft and Lucy Sanders](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter).
 - [Why I Care About Diversity in Tech by Tracy Chou](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532).
-- [Why we shouldn’t underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/).
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/amp).
+- [Why we shouldn’t underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/).
 - [Women and Minorities Are Penalized for Promoting Diversity by Stefanie K. Johnson and David R. Hekman](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity).
 
 ## Talks
