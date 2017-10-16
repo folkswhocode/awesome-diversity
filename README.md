@@ -24,6 +24,7 @@ Organizations bringing diversity to tech.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC).
 - [Hack the Hood](http://www.hackthehood.org/).
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/).
+- [Ping a Programadoras](https://pingprogramadoras.org/).
 - [Project Include](http://projectinclude.org/).
 - [PyLadies](http://www.pyladies.com/).
 - [Rails Girls](http://railsgirls.com/).
