@@ -2,6 +2,7 @@
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically**):
 
+- [María Arias de Reyna](https://github.com/Delawen).
 - [Manuel Gómez](https://github.com/tasugo).
 - [Iván González](https://github.com/dreamingechoes).
 - [Fabian Matern](https://github.com/fabianmatern).
