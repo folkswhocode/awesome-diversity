@@ -84,6 +84,8 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Consensual Software: Prioritizing Trust & Safety for new features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
 - [Diversity in Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williamns.
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
+- [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) — By Nicole Cabrera Salazar
+- [Why We Need Diversity in Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) — By Rebekah Michael
 
 ## Advocates
 
