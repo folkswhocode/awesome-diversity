@@ -20,6 +20,7 @@ Organizations bringing diversity to tech.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
+- [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - A list of inclusive companies for people of color in tech.
 - [Hack the Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
@@ -35,6 +36,10 @@ Organizations bringing diversity to tech.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
+## Conferences
+The following is a list of conferences that make a special effort to be inclusive and encourage diversity
+
+- [Elixir With Love](https://www.elixir-with-love.com/) 
 
 ## Ally Resources
 
@@ -64,6 +69,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [How tech’s lack of diversity leads to racist software](http://www.sfchronicle.com/business/article/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
+- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee
 - [Racial bias at tech companies is real](http://www.complex.com/life/2016/03/tech-diversity-problem) - By Suzannah Weiss.
 - [Software Development 450 Words per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
 - [ThoughtWorks' Insights on Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
