@@ -69,6 +69,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [How tech’s lack of diversity leads to racist software](http://www.sfchronicle.com/business/article/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
+- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee
 - [Racial bias at tech companies is real](http://www.complex.com/life/2016/03/tech-diversity-problem) - By Suzannah Weiss.
 - [Software Development 450 Words per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
 - [ThoughtWorks' Insights on Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
