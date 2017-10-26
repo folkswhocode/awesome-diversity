@@ -11,3 +11,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Lizzie Siegle](https://github.com/elizabethsiegle).
 - [Markus Tacker](https://github.com/coderbyheart).
 - [Marina Vega](https://github.com/marinavega).
+- [Natalia Vidal](https://github.com/erikiva).
