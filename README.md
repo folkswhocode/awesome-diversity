@@ -36,6 +36,8 @@ Organizations bringing diversity to tech.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
+## Conferences
+The following is a list of conferences that make a special effort to be inclusive and encourage diversity
 
 ## Ally Resources
 
