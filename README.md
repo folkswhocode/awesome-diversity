@@ -39,7 +39,7 @@ Organizations bringing diversity to tech.
 ## Conferences
 The following is a list of conferences that make a special effort to be inclusive and encourage diversity
 
-- [Elixir With Love] (https://www.elixir-with-love.com/) 
+- [Elixir With Love](https://www.elixir-with-love.com/) 
 
 ## Ally Resources
 
