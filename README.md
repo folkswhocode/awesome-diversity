@@ -18,28 +18,40 @@ Organizations bringing diversity to tech.
 
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
+- [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
+- [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
+- [FrameShift Consulting](https://frameshiftconsulting.com/) - FrameShift open sources their fantastic Ally Skills Workshop, Conference incident response materials and many other resources allowing to scale creating welcoming, inclusive, diverse cultures.
+- [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - A list of inclusive companies for people of color in tech.
 - [Hack the Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - Program to connect young black males with all they need to become high-performing entrepreneurs and technologists.
+- [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
+- [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
+- [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
 - [Ping a Programadoras](https://pingprogramadoras.org/) - Group of women and people of non-binary gender whose purposes are the reflection and empowerment in the field of technology.
 - [Project Include](http://projectinclude.org/) - Non-profit organization that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry.
 - [PyLadies](http://www.pyladies.com/) - International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
+- [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
 - [TLA Women In Tech](http://tlawomenintech.org/) - Working group dedicated to increasing gender balance and equality in tech.
+- [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
+- [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
 ## Conferences
 The following is a list of conferences that make a special effort to be inclusive and encourage diversity
 
-- [Elixir With Love](https://www.elixir-with-love.com/) 
+- [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+- [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
 
 ## Ally Resources
 
@@ -53,9 +65,11 @@ The following are collections of various types of resources (talks, documents, b
 The following is a list of individual resources with actionable items for being an ally in any diversity efforts.
 
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) - By Catherine Ashcraft.
+- [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) - By Jason Wong.
 - [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) - By Karolina Szczur.
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
 - [How to build inclusive culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
+- [On Improving Diversity in Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
 - [So, you just learned there are issues with the tech industry. Now what?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
 - [Top 10 everyday actions any hiring manager can do to diversify their candidate pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking compensation and promotion inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
@@ -65,18 +79,29 @@ The following is a list of individual resources with actionable items for being 
 
 Both articles and posts on diversity and inclusiveness in technology.
 
+- [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b)
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
+- [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
+- [Can we talk about the gender pay gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
+- [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney. 
+- [Hidden figures: How Silicon Valley keeps diversity data secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By 
+Will Evans and Sinduja Rangarajan.
 - [How tech’s lack of diversity leads to racist software](http://www.sfchronicle.com/business/article/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee
+- [How tech’s lack of diversity leads to racist software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
+- [I’m Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - By Diane Rubino.
+- [If You Can’t Find a Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - By Avivah Wittenberg-Cox.
 - [Racial bias at tech companies is real](http://www.complex.com/life/2016/03/tech-diversity-problem) - By Suzannah Weiss.
+- [Recruiting for Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - Tobbe Gyllebring.
 - [Software Development 450 Words per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
 - [ThoughtWorks' Insights on Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion is Everyone's Business: Q&A for Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion is Everyone's Business: Q&A for Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
 - [Why Diverse Teams Matter](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter) - By Brad McLain, Catherine Ashcraft and Lucy Sanders.
+- [Why don’t European girls like science or technology?](https://news.microsoft.com/europe/features/dont-european-girls-like-science-technology/) - By Microsoft.
 - [Why I Care About Diversity in Tech](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532) - By Tracy Chou.
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/) - By Allison Coil.
 - [Why we shouldn't underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
