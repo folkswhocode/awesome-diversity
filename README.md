@@ -6,6 +6,7 @@
 
 ## Contents
 - [Organizations](#organizations)
+- [Conferences](#conferences)
 - [Ally Resources](#ally-resources)
 - [Actionable Resources](#actionable-resources)
 - [Posts](#posts)
