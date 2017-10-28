@@ -80,14 +80,14 @@ The following is a list of individual resources with actionable items for being 
 
 Both articles and posts on diversity and inclusiveness in technology.
 
-- [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b)
+- [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - By Karolina Szczur.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Can we talk about the gender pay gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
-- [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney. 
-- [Hidden figures: How Silicon Valley keeps diversity data secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By 
+- [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
+- [Hidden figures: How Silicon Valley keeps diversity data secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
 Will Evans and Sinduja Rangarajan.
 - [How tech’s lack of diversity leads to racist software](http://www.sfchronicle.com/business/article/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee
