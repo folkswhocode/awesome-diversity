@@ -90,7 +90,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Hidden figures: How Silicon Valley keeps diversity data secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
 Will Evans and Sinduja Rangarajan.
 - [How tech’s lack of diversity leads to racist software](http://www.sfchronicle.com/business/article/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
-- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee
+- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
 - [How tech’s lack of diversity leads to racist software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [I’m Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - By Diane Rubino.
 - [If You Can’t Find a Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - By Avivah Wittenberg-Cox.
