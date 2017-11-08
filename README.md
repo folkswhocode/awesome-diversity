@@ -105,6 +105,7 @@ Will Evans and Sinduja Rangarajan.
 - [Why don’t European girls like science or technology?](https://news.microsoft.com/europe/features/dont-european-girls-like-science-technology/) - By Microsoft.
 - [Why I Care About Diversity in Tech](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532) - By Tracy Chou.
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/) - By Allison Coil.
+- [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) - By Zoë Henry.
 - [Why we shouldn't underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
 - [Women and Minorities Are Penalized for Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - By Stefanie K. Johnson and David R. Hekman.
 
@@ -118,6 +119,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity in Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
+
 
 ## Advocates
 
