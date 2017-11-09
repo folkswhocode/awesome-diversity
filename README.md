@@ -118,7 +118,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 
 - [9 Ways to Stop Hurting and Start Helping Women in Tech](https://www.youtube.com/watch?v=pUVhF3jDG08) - By Brianna Wu.
 - [Consensual Software: Prioritizing Trust & Safety for new features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
-- [Cathegory Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng
+- [Category Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng
 - [Diversity in Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williamns.
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
