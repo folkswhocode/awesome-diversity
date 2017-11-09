@@ -39,6 +39,7 @@ Organizations bringing diversity to tech.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
+- [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
@@ -53,6 +54,7 @@ The following is a list of conferences that make a special effort to be inclusiv
 
 - [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
+- [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers. 
 
 ## Ally Resources
 
@@ -84,6 +86,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Can we talk about the gender pay gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
+- [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
@@ -115,6 +118,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 
 - [9 Ways to Stop Hurting and Start Helping Women in Tech](https://www.youtube.com/watch?v=pUVhF3jDG08) - By Brianna Wu.
 - [Consensual Software: Prioritizing Trust & Safety for new features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
+- [Cathegory Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng
 - [Diversity in Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williamns.
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
