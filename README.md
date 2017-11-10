@@ -87,6 +87,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Can we talk about the gender pay gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
 - [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell
+- [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) - By Sabrina Fonseca
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
