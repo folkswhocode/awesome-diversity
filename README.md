@@ -70,6 +70,7 @@ The following is a list of individual resources with actionable items for being 
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) - By Catherine Ashcraft.
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) - By Jason Wong.
 - [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) - By Karolina Szczur.
+- [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) - By Sabrina Fonseca
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
 - [How to build inclusive culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [On Improving Diversity in Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
