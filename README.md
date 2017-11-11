@@ -2,6 +2,8 @@
 
 :sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
 
+This list contains a variety of resources on diversity, more specifically diversity in tech, including posts, talks, actionable resources, conferences, social media advocates and more. The goal of the list is to provide quick access to information on diversity to tech companies and communities that are willing to do better in their everyday actions to make the tech industry a more inclusive place, and to individuals that look for further reading on topics that might interest them about diversity and equity in the tech field.
+
 **Always work in progress.**
 
 ## Contents
@@ -86,8 +88,8 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Can we talk about the gender pay gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
-- [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell
-- [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) - By Sabrina Fonseca
+- [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell.
+- [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) - By Sabrina Fonseca.
 - [Ellen Pao: Has Anything Really Changed for Women in Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional labor is the unpaid job men still don't understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering a culture of psychological safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
@@ -119,7 +121,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 
 - [9 Ways to Stop Hurting and Start Helping Women in Tech](https://www.youtube.com/watch?v=pUVhF3jDG08) - By Brianna Wu.
 - [Consensual Software: Prioritizing Trust & Safety for new features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
-- [Category Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng
+- [Category Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng.
 - [Diversity in Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williamns.
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
