@@ -49,6 +49,7 @@ Organizations bringing diversity to tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
+- [Women Who Tech](https://www.womenwhotech.com/) - Nonprofit organization to bring together talented and renowned women breaking new ground in technology to transform the world and inspire change. 
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
 ## Conferences
