@@ -85,6 +85,7 @@ The following is a list of individual resources with actionable items for being 
 
 Both articles and posts on diversity and inclusiveness in technology.
 
+- [100 Women in Tech and Founders to Follow on Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) - By Allyson Kapin.
 - [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - By Karolina Szczur.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
