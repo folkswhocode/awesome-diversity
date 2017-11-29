@@ -117,6 +117,7 @@ Will Evans and Sinduja Rangarajan.
 - [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) - By Zoë Henry.
 - [Why we shouldn't underestimate the power of diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
 - [Women and Minorities Are Penalized for Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - By Stefanie K. Johnson and David R. Hekman.
+- [Why Tech Needs The Rooney Rule](https://techcrunch.com/2015/07/28/why-tech-needs-the-rooney-rule/) - By  Sammy Ahmed
 
 ## Talks
 
