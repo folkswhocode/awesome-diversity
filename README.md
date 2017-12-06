@@ -35,6 +35,7 @@ Organizations bringing diversity to tech.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
+- [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
 - [Ping a Programadoras](https://pingprogramadoras.org/) - Group of women and people of non-binary gender whose purposes are the reflection and empowerment in the field of technology.
 - [Project Include](http://projectinclude.org/) - Non-profit organization that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry.
 - [PyLadies](http://www.pyladies.com/) - International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
