@@ -127,7 +127,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Consensual Software: Prioritizing Trust & Safety for new features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
 - [Category Theory in Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng.
 - [Diversity in Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williamns.
-- [Going Beyong The Pipeline Problem] (https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - By Pantheon
+- [Going Beyong The Pipeline Problem](https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - By Pantheon
 - [Software Art Thou: Debugging the Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future of STEM Depends on Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity in Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
