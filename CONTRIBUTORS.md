@@ -16,3 +16,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Iñaki Iglesias](https://github.com/lenguadeplata)
 - [Sujay Maheshwari](https://github.com/taurusismysign)
 - [Matt Trask](https://github.com/matthewtrask)
+- [Joe Winter](https://github.com/joeventures)

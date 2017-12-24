@@ -14,6 +14,7 @@ This list contains a variety of resources on diversity, more specifically divers
 - [Posts](#posts)
 - [Talks](#talks)
 - [Advocates](#advocates)
+- [Books](#books)
 
 ## Organizations
 
@@ -141,6 +142,12 @@ Talks and presentations about diversity, consensual software and safe communitie
 People who publicly support and empower underrepresented groups in tech.
 
 - [FolksWhoCode](https://github.com/folkswhocode) - Organization which aims for a more rich and diverse tech community.
+
+## Books
+
+Books that offer deep insights on diversity and inclusiveness in technology.
+
+- [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
 ## Contributing
 
