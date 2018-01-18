@@ -101,6 +101,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Ellen Pao: Has Anything Really Changed For Women In Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional Labor Is The Unpaid Job Men Still Don't Understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering A Culture Of Psychological Safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
+- [Gender Bias? A Transgender Perspective!](https://code.likeagirl.io/gender-bias-a-transgender-perspective-de27f2cd3837) - By Daniela Petruzalek.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
 Will Evans and Sinduja Rangarajan.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
