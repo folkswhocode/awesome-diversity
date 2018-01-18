@@ -20,6 +20,7 @@ This list contains a variety of resources on diversity, more specifically divers
 
 Organizations bringing diversity to tech.
 
+- [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
