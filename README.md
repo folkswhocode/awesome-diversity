@@ -8,7 +8,7 @@ This list contains a variety of resources on diversity, more specifically divers
 
 ## Contents
 - [Organizations](#organizations)
-- [Conferences](#conferences)
+- [Events](#events)
 - [Ally Resources](#ally-resources)
 - [Actionable Resources](#actionable-resources)
 - [Posts](#posts)
@@ -59,8 +59,8 @@ Organizations bringing diversity to tech.
 - [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
-## Conferences
-The following is a list of conferences that make a special effort to be inclusive and encourage diversity
+## Events
+The following is a list of events that make a special effort to be inclusive and encourage diversity
 
 - [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
