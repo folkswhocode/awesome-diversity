@@ -80,13 +80,16 @@ The following is a list of individual resources with actionable items for being 
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) - By Catherine Ashcraft.
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) - By Jason Wong.
 - [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) - By Karolina Szczur.
+- [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - By Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
+- [How to Fight Sexism on Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
 - [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
 - [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.
+- [You Have a Culture Problem. Here's How To Avoid a Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - By Ellen K. Pao.
 
 ## Posts
 
@@ -97,33 +100,43 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Can We Talk About The Gender Pay Gap?](https://www.washingtonpost.com/graphics/2017/business/women-pay-gap/) - By Xaquín González Veira.
+- [Code of Conduct Enforcement Warning Signs](https://otter.technology/blog/2017/12/28/code-of-conduct-enforcement-warning-signs/) - By Otter Tech.
 - [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell.
 - [Designing Forms For Gender Diversity And Inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) - By Sabrina Fonseca.
 - [Ellen Pao: Has Anything Really Changed For Women In Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional Labor Is The Unpaid Job Men Still Don't Understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering A Culture Of Psychological Safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
 - [Gender Bias? A Transgender Perspective!](https://code.likeagirl.io/gender-bias-a-transgender-perspective-de27f2cd3837) - By Daniela Petruzalek.
+- [Getting free of toxic tech culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) - By Valerie Aurora and Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
 Will Evans and Sinduja Rangarajan.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - By Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - By Avivah Wittenberg-Cox.
+- [Important Women in CS Who Aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/) - By Hillel Wayne.
+- [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/) - By Coraline Ada.
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) - By Suzannah Weiss.
 - [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - Tobbe Gyllebring.
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
+- [Stop saying that diversity means lowering the bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) - By Leah Fessler.
+- [Struggling For Investments, Silicon Valley Women Reluctant To Speak Out On Harassment](https://www.npr.org/sections/alltechconsidered/2017/11/16/564498133/struggling-for-investments-silicon-valley-women-reluctant-to-speak-out-on-harass) - By Laura Sydell.
+- [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
 - [ThoughtWorks' Insights On Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion Is Everyone's Business: Q&A For Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
+- [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 - [Why Diverse Teams Matter](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter) - By Brad McLain, Catherine Ashcraft and Lucy Sanders.
 - [Why Don't European Girls Like Science Or Technology?](https://news.microsoft.com/europe/features/dont-european-girls-like-science-technology/) - By Microsoft.
 - [Why I Care About Diversity In Tech](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532) - By Tracy Chou.
+- [Why I don't use my real photo when messaging with customers on my website](https://www.kapwing.com/blog/why-i-dont-use-my-real-photo/) - By Julia Enthoven.
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/) - By Allison Coil.
 - [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) - By Zoë Henry.
 - [Why Tech Needs The Rooney Rule](https://techcrunch.com/2015/07/28/why-tech-needs-the-rooney-rule/) - By Sammy Ahmed.
 - [Why We shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - By Stefanie K. Johnson and David R. Hekman.
+- [Your company's Slack is probably sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) - By Leah Fessler.
 
 ## Talks
 
@@ -133,6 +146,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Consensual Software: Prioritizing Trust & Safety For New Features](https://www.youtube.com/watch?v=Ccw3VfE3P4M) - By Danielle Leong.
 - [Category Theory In Life](https://youtu.be/ho7oagHeqNc) - By Eugenia Cheng.
 - [Diversity In Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williams.
+- [Enforcing Your Code of Conduct: Effective Incident Response](https://www.youtube.com/watch?v=nizfHxg8y3o) - By Audrey Eschright.
 - [Going Beyong The Pipeline Problem](https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - By Pantheon.
 - [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
