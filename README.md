@@ -62,6 +62,7 @@ Organizations bringing diversity to tech.
 ## Events
 The following is a list of events that make a special effort to be inclusive and encourage diversity
 
+- [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 - [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
 - [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
