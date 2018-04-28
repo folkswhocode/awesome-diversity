@@ -39,6 +39,7 @@ Organizations bringing diversity to tech.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
+- [OtterTech](https://otter.technology/) - Diversity consulting to help you toward a more inclusive workspace and attract diverse contributors.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
 - [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
