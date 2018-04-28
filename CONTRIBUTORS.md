@@ -6,6 +6,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Jorge Galindo](https://github.com/jorgegalindocruces)
 - [Manuel Gómez](https://github.com/tasugo).
 - [Iván González](https://github.com/dreamingechoes).
+- [Shauna Gordon-McKeon](https://github.com/shaunagm).
 - [Iñaki Iglesias](https://github.com/lenguadeplata).
 - [Sujay Maheshwari](https://github.com/taurusismysign).
 - [Fabian Matern](https://github.com/fabianmatern).
