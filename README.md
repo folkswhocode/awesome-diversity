@@ -30,7 +30,9 @@ Organizations bringing diversity to tech.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
 - [FrameShift Consulting](https://frameshiftconsulting.com/) - FrameShift open sources their fantastic Ally Skills Workshop, Conference incident response materials and many other resources allowing to scale creating welcoming, inclusive, diverse cultures.
-- [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
+- [FondaBYM] (http://fondabym.org) - Setting up multiple project to get money that can help to raise youth education.
+- [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numer
+ous initiatives for mental health, diversity, inclusion, anti-harassment and more.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
