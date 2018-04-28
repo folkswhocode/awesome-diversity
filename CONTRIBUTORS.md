@@ -1,8 +1,9 @@
-# Contributors
+﻿# Contributors
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
 - [María Arias de Reyna](https://github.com/Delawen).
+- [Damien Burks](https://github.com/YukiSan1225).
 - [Jorge Galindo](https://github.com/jorgegalindocruces)
 - [Manuel Gómez](https://github.com/tasugo).
 - [Iván González](https://github.com/dreamingechoes).
