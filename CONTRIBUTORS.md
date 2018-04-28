@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
@@ -12,6 +12,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Fabian Matern](https://github.com/fabianmatern).
 - [Daniel Ossorio](https://github.com/dossorio).
 - [Benjamin Reitzammer](https://github.com/benjmin-r).
+- [Anish Patel](https://github.com/kingswayanish).
 - [Lizzie Siegle](https://github.com/elizabethsiegle).
 - [Markus Tacker](https://github.com/coderbyheart).
 - [Matt Trask](https://github.com/matthewtrask).
