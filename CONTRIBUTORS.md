@@ -2,6 +2,7 @@
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
+- [FranChell Davidson](https://github.com/f-davidson)
 - [María Arias de Reyna](https://github.com/Delawen).
 - [Jorge Galindo](https://github.com/jorgegalindocruces)
 - [Manuel Gómez](https://github.com/tasugo).
