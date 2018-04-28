@@ -22,6 +22,7 @@ Organizations bringing diversity to tech.
 
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
+- [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
