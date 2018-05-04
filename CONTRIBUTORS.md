@@ -3,7 +3,8 @@
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
 - [María Arias de Reyna](https://github.com/Delawen).
-- [Jorge Galindo](https://github.com/jorgegalindocruces)
+- [Alex Cureton-Griffiths](https://alexcg1.github.io).
+- [Jorge Galindo](https://github.com/jorgegalindocruces).
 - [Manuel Gómez](https://github.com/tasugo).
 - [Iván González](https://github.com/dreamingechoes).
 - [Shauna Gordon-McKeon](https://github.com/shaunagm).
