@@ -47,6 +47,7 @@ Organizations bringing diversity to tech.
 - [Ping A Programadoras](https://pingprogramadoras.org/) - Group of women and people of non-binary gender whose purposes are the reflection and empowerment in the field of technology.
 - [Project Include](http://projectinclude.org/) - Non-profit organization that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry.
 - [PyLadies](http://www.pyladies.com/) - International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
+- [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) - Queer and feminist maker space located in Beijing, China, providing a learning space and community actions for change.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
 - [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
