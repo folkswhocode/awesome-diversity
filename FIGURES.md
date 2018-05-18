@@ -162,14 +162,19 @@ Roy Clay Sr. is known as the Godfather of Silicon Valley. Mr.Clay was at the cut
 * **[Mercury News: How a Silicon Valley tech pioneer came close to being Michael Brown](https://www.mercurynews.com/2014/08/28/roy-l-clay-sr-how-a-silicon-valley-tech-pioneer-came-close-to-being-michael-brown/)**
 
 ### Mark Dean
+<img src="images/figures/mark_dean.jpg" align="right" height="100px">
+American inventor and computer engineer. He was part of the team that developed the ISA bus, and he led a design team for making a one-gigahertz computer processor chip. He holds three of nine PC patents for being the co-creator of the IBM personal computer released in 1981
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Mark_Dean_(computer_scientist))**
 
 ### Guion Bluford Jr
+<img src="images/figures/guion_bluford.jpg" align="right" height="100px">
+Guion Bluford Jr., Ph.D. is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who was the first African American in space. Before becoming an astronaut, he was an officer in the U.S. Air Force, where he remained while assigned to NASA, rising to the rank of Colonel.
 
-### Mae Jemison
-
-### James E West
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Guion_Bluford)**
 
 ### Philip Emeagwali
+During his doctoral fellowship at the University of Michigan in the 1980s, Philip Emeagwali researched how to simulate the detection of oil reservoirs through the use of computers. Originally from Nigeria, he knew more about oil drilling than many of his contemporaries, and he used more than 65,000 microprocessors instead of the proposed eight supercomputers, breaking computation speed records.
 
 ### Kennedy Reed
 
@@ -205,9 +210,8 @@ https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.ht
 
 ### People of Color
 
-* https://www.eetimes.com/author.asp?section_id=36&doc_id=1331908
-* https://prezi.com/ktdqtqyascp0/people-of-color-in-computing/
-* https://mashable.com/2013/02/03/black-innovators/
+* [Computer History Must Include People of Color](https://www.eetimes.com/author.asp?section_id=36&doc_id=1331908)
+* [20 Notable Black Innovators in Tech](https://mashable.com/2013/02/03/black-innovators/)
 
 ## Submission Guidelines
 
@@ -215,3 +219,8 @@ https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.ht
 * For LGBTQ figures, please ensure they are historical or publically "out"
 * For figures who fit into several categories - I have no idea yet
 * Please order figures alphabetically by surname
+
+## Should we include these folks?
+They're involved in tech, but not especially close to computing or its forebears
+
+### James E West
