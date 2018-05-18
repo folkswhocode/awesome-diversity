@@ -10,6 +10,8 @@ http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented
 <img src="images/figures/hedy_lamarr.jpg" align="left" height="100px">
 Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
 
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Hedy_Lamarr#Inventor)**
+
 ### Ada Lovelace
 
 ### Grace Hopper
