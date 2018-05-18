@@ -18,17 +18,21 @@ Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27
 
 **[Wikipedia link](https://en.wikipedia.org/wiki/Ada_Lovelace)**
 
-
 ### Grace Hopper
+<img src="images/figures/grace_hopper.jpg" align="left" height="100px">
+Grace Brewster Murray Hopper was an American computer scientist and United States Navy rear admiral. One of the first programmers of the Harvard Mark I computer, she was a pioneer of computer programming who invented one of the first compiler related tools. She popularized the idea of machine-independent programming languages, which led to the development of COBOL, an early high-level programming language still in use today.
+**[Wikipedia link](https://en.wikipedia.org/wiki/Grace_Hopper)**
 
 ### Margaret Hamilton
 <img src="images/figures/margaret_hamilton.jpg" align="left" height="100px">
-In a field dominated by men, Hamilton was a trailblazer in the field of software engineering — incidentally, a term she coined. She not only played a significant role in making space travel possible, she also forged a decades-long career as a programmer and even founded her own company, Hamilton Technologies, Inc.
+In a field dominated by men, Hamilton was a trailblazer in the field of software engineering — incidentally, a term she coined. She not only played a significant role in making space travel possible, she also forged a decades-long career as a programmer and even founded her own company, Hamilton Technologies, Inc.<br>
 <strong><a href="https://iq.intel.com/margaret-hamilton-programmed-apollo-11-moon-landing/">How Margaret Hamilton Programmed the Apollo 11 Moon Landing</a></strong><br>
 <strong><a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)">Wikipedia Link</a></strong>
 
 ### Elizabeth Feinler
-https://www.internethalloffame.org//inductees/elizabeth-feinler
+<img src="images/figures/elizabeth_feinler.jpg" align="left" height="100px">
+Elizabeth Feinler pioneered and managed first the ARPANET, and then the Defense Data Network (DDN), network information centers (NIC) under contract to the Department of Defense (DoD). Both of these early networks were the forerunners of today’s Internet.
+**[Internet Hall of Fame](https://www.internethalloffame.org//inductees/elizabeth-feinler)**
 
 ### Radia Perlman
 https://en.wikipedia.org/wiki/Radia_Perlman#cite_note-0
