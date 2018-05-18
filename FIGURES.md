@@ -10,9 +10,14 @@ http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented
 <img src="images/figures/hedy_lamarr.jpg" align="left" height="100px">
 Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
 
-* **[Wikipedia link](https://en.wikipedia.org/wiki/Hedy_Lamarr#Inventor)**
+**[Wikipedia link](https://en.wikipedia.org/wiki/Hedy_Lamarr#Inventor)**
 
 ### Ada Lovelace
+<img src="images/figures/ada_lovelace.jpg" align="left" height="100px">
+Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and published the first algorithm intended to be carried out by such a machine. As a result, she is sometimes regarded as the first to recognise the full potential of a "computing machine" and the first computer programmer.
+
+**[Wikipedia link](https://en.wikipedia.org/wiki/Ada_Lovelace)**
+
 
 ### Grace Hopper
 
