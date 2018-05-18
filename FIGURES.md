@@ -2,8 +2,6 @@
 
 Some of these are figures in scientific or maths history too. 
 
-http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented-the-internet/
-
 ## Women
 
 ### Ada Lovelace
@@ -47,13 +45,8 @@ https://www.internethalloffame.org/inductees/yvonne-marie-andr%C3%A9s
 ### Tracy LaQuey Parker
 https://www.internethalloffame.org/inductees/tracy-laquey-parker
 
-## LGBT
-Got to be more careful here - can't really "out" someone as being female or PoC, but face that problem with LGBT. Recommendation: Only include if they are a publicly-out figure.
-
-http://www.algbtical.org/2A%20SCIENCE.htm
-https://blog.newrelic.com/2016/06/23/10-lgbt-computer-science-pioneers/
-https://www.noglstp.org/publications-documents/queer-scientists-of-historical-note/
-http://www.ibtimes.com/queer-science-alan-turing-sally-ride-734205
+## LGBTQ
+Got to be more careful here - can't really "out" someone as being female or PoC, but face that problem with LGBTQ. Recommendation: Only include if they are a publicly-out figure.
 
 ### Alan Turing
 
@@ -80,11 +73,11 @@ http://www.ibtimes.com/queer-science-alan-turing-sally-ride-734205
 ### Lynn Conway
 https://en.wikipedia.org/wiki/Lynn_Conway
 
+### Brianna Wu
+https://en.wikipedia.org/wiki/Brianna_Wu
+
 ## People of Color
-https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html
-https://www.eetimes.com/author.asp?section_id=36&doc_id=1331908
-https://prezi.com/ktdqtqyascp0/people-of-color-in-computing/
-https://mashable.com/2013/02/03/black-innovators/
+*The term "person of color" is used primarily in the United States to describe any person who is not white.*
 
 ### Frank Greene
 He developed high-speed semiconductor computer-memory systems at Fairchild Semiconductor R&D Labs in the 1960s. He started two technology companies and later founded NewVista Capital, a venture firm with a special focus on minority- and female-headed firms.
@@ -112,3 +105,37 @@ https://www.paloaltoonline.com/news/2009/12/28/frank-greene-silicon-valley-techn
 
 ### Herman Chinery-Hesse
 https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.html
+
+### Satya Nadella
+
+### Sundar Pichai
+
+## Reference Links
+
+### Multiple Categories
+
+* https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html
+* [Women and People of Color who Invented the Internet](http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented-the-internet/)
+
+### Women
+* [Women in Tech at Wikipedia](https://en.wikipedia.org/wiki/Category:Women_in_technology)
+
+### LGBTQ
+
+* http://www.algbtical.org/2A%20SCIENCE.htm
+* https://blog.newrelic.com/2016/06/23/10-lgbt-computer-science-pioneers/
+* https://www.noglstp.org/publications-documents/queer-scientists-of-historical-note/
+* http://www.ibtimes.com/queer-science-alan-turing-sally-ride-734205
+
+### People of Color
+
+* https://www.eetimes.com/author.asp?section_id=36&doc_id=1331908
+* https://prezi.com/ktdqtqyascp0/people-of-color-in-computing/
+* https://mashable.com/2013/02/03/black-innovators/
+
+## Submission Guidelines
+
+* Ensure the figure is notable. [Use the Wikipedia guidelines](https://en.wikipedia.org/wiki/Wikipedia:Notability). We don't want to list your neighbor Nancy who happens to fix PCs in her spare time! ;)
+* For LGBT figures, please ensure they are historical or publically "out"
+* For figures who fit into several categories - I have no idea yet
+* Please order figures alphabetically by surname
