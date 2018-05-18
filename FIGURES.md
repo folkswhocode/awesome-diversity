@@ -56,8 +56,8 @@ Mae Jemison is an American engineer, physician and NASA astronaut. She became th
 <img src="images/figures/hidden_figures.jpeg" align="left" height="100px">
 Real life "Hidden Figures," Dorothy Vaughan, Mary Jackson, and Katherine Johnson made notable achievements at NASA, overcoming the many obstacles of the segregated south to work on missions crucial to early space exploration.
 
-**[They did the math: How NASA's black mathematicians multiplied success](https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html)**
-**[Profiles for Black History Month](https://www.illustratedimpact.org/home/2017/2/22/katherine-johnson-dorothy-vaughan-and-mary-jackson)**
+* **[They did the math: How NASA's black mathematicians multiplied success](https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html)**
+* **[Profiles for Black History Month](https://www.illustratedimpact.org/home/2017/2/22/katherine-johnson-dorothy-vaughan-and-mary-jackson)**
 
 ## Women
 
