@@ -54,7 +54,7 @@ Former Chief Technology Office of Cisco Systems, where she founded its Worldwide
 Got to be more careful here - can't really "out" someone as being female or PoC, but face that problem with LGBTQ. Recommendation: Only include if they are a publicly-out figure.
 
 ### Alan Turing
-<img src="images/figures/alan_turing.png" align="left" height="100px">
+<img src="images/figures/alan_turing.jpg" align="left" height="100px">
 English computer scientist, mathematician, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. Turing was prosecuted in 1952 for homosexual acts and accepted chemical castration treatment as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning.
 
 **[Wikipedia link](https://en.wikipedia.org/wiki/Alan_Turing)**
