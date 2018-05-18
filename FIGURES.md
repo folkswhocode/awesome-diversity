@@ -7,7 +7,8 @@ http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented
 ## Women
 
 ### Hedy Lamarr
-![](images/figures/hedy_lamarr.jpg)Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
+<img src="images/figures/hedy_lamarr.jpg" align="left" height="100px">
+Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
 
 ### Ada Lovelace
 
