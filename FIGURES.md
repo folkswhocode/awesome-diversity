@@ -6,12 +6,6 @@ http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented
 
 ## Women
 
-### Hedy Lamarr
-<img src="images/figures/hedy_lamarr.jpg" align="left" height="100px">
-Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
-
-**[Wikipedia link](https://en.wikipedia.org/wiki/Hedy_Lamarr#Inventor)**
-
 ### Ada Lovelace
 <img src="images/figures/ada_lovelace.jpg" align="left" height="100px">
 Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and published the first algorithm intended to be carried out by such a machine. As a result, she is sometimes regarded as the first to recognise the full potential of a "computing machine" and the first computer programmer.
@@ -30,6 +24,12 @@ In a field dominated by men, Hamilton was a trailblazer in the field of software
 <br>
 <strong><a href="https://iq.intel.com/margaret-hamilton-programmed-apollo-11-moon-landing/">How Margaret Hamilton Programmed the Apollo 11 Moon Landing</a></strong><br>
 <strong><a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)">Wikipedia Link</a></strong>
+
+### Hedy Lamarr
+<img src="images/figures/hedy_lamarr.jpg" align="left" height="100px">
+Famous Hollywood actress and inventor. Not only was she known as one of the most beautiful women of her day, but she also invented a technology that enables the mass use of mobile phones and other wireless communications.
+
+**[Wikipedia link](https://en.wikipedia.org/wiki/Hedy_Lamarr#Inventor)**
 
 ### Elizabeth Feinler
 <img src="images/figures/elizabeth_feinler.jpg" align="left" height="100px">
