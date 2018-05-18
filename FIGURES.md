@@ -24,8 +24,8 @@ Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27
 ### Margaret Hamilton
 <img src="images/figures/margaret_hamilton.jpg" align="left" height="100px">
 In a field dominated by men, Hamilton was a trailblazer in the field of software engineering — incidentally, a term she coined. She not only played a significant role in making space travel possible, she also forged a decades-long career as a programmer and even founded her own company, Hamilton Technologies, Inc.
-**[How Margaret Hamilton Programmed the Apollo 11 Moon Landing](https://iq.intel.com/margaret-hamilton-programmed-apollo-11-moon-landing/)**
-**[Wikipedia link](https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist))
+<strong><a href="https://iq.intel.com/margaret-hamilton-programmed-apollo-11-moon-landing/"></a>How Margaret Hamilton Programmed the Apollo 11 Moon Landing</strong>
+<strong><a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)"></a>Wikipedia Link</strong>
 
 ### Elizabeth Feinler
 https://www.internethalloffame.org//inductees/elizabeth-feinler
