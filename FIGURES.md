@@ -39,16 +39,25 @@ Elizabeth Feinler pioneered and managed first the ARPANET, and then the Defense 
 https://en.wikipedia.org/wiki/Radia_Perlman#cite_note-0
 
 ### Yvonne Marie Andrés
+<img src="images/figures/yvonne_marie_andres.png" align="left" height="100px">
 Dr. Yvonne Marie Andrés was one of the earliest people to utilize the Internet to develop and advance global e-learning opportunities for educators and students.
-https://www.internethalloffame.org/inductees/yvonne-marie-andr%C3%A9s
+
+**[Internet Hall of Fame](https://www.internethalloffame.org/inductees/yvonne-marie-andr%C3%A9s)**
 
 ### Tracy LaQuey Parker
-https://www.internethalloffame.org/inductees/tracy-laquey-parker
+<img src="images/figures/tracylaqueyparker.png" align="left" height="100px">
+Former Chief Technology Office of Cisco Systems, where she founded its Worldwide Education focus and Advanced Internet Initiatives, and continued to promote the Internet in academic environments and K-12 schools. She also led Cisco's participation in Internet Society activities internationally. Parker carries the distinction of being the first individual to successfully sue a spammer, who forged her domain name, in a lawsuit that helped to advance legal understanding of the digital frontier.
+
+**[Internet Hall of Fame](https://www.internethalloffame.org/inductees/tracy-laquey-parker)**
 
 ## LGBTQ
 Got to be more careful here - can't really "out" someone as being female or PoC, but face that problem with LGBTQ. Recommendation: Only include if they are a publicly-out figure.
 
 ### Alan Turing
+<img src="images/figures/alan_turing.png" align="left" height="100px">
+English computer scientist, mathematician, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. Turing was prosecuted in 1952 for homosexual acts and accepted chemical castration treatment as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning.
+
+**[Wikipedia link](https://en.wikipedia.org/wiki/Alan_Turing)**
 
 ### Tim Cook
 
@@ -136,6 +145,6 @@ https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.ht
 ## Submission Guidelines
 
 * Ensure the figure is notable. [Use the Wikipedia guidelines](https://en.wikipedia.org/wiki/Wikipedia:Notability). We don't want to list your neighbor Nancy who happens to fix PCs in her spare time! ;)
-* For LGBT figures, please ensure they are historical or publically "out"
+* For LGBTQ figures, please ensure they are historical or publically "out"
 * For figures who fit into several categories - I have no idea yet
 * Please order figures alphabetically by surname
