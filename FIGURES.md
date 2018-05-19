@@ -1,6 +1,16 @@
-# Minority Figures in Technology History
-
+# Diverse Figures in Technology History
 Women, people of color, and LGBTQ folks in technology history.
+
+## Contents
+
+* [Multi-Category](#multi-category)
+* [Women](#women)
+* [LGBTQ](#LGBTQ)
+* [People of Color](#people_of_color)
+* [Reference links](#reference_links)
+* [Submission guidelines](#submission_guidelines)
+
+<hr>
 
 ## Multi-Category
 Humans are complicated - some folks fit in more than one of our categories. So we made a new one just for them!
@@ -59,6 +69,16 @@ Real life "Hidden Figures," Dorothy Vaughan, Mary Jackson, and Katherine Johnson
 * **[They did the math: How NASA's black mathematicians multiplied success](https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html)**
 * **[Profiles for Black History Month](https://www.illustratedimpact.org/home/2017/2/22/katherine-johnson-dorothy-vaughan-and-mary-jackson)**
 
+### Kimberly Bryant (woman of color)
+<img src="images/figures/kimberly_bryant.jpg" align="right" height="100px">
+In 2011, Kimberly Bryant launched Black Girls Code, an organization devoted to teaching young girls of color computer coding and programming languages, such as Scratch and Ruby on Rails. Through classes and programs, Bryant and the rest of the Black Girls Code team hope to grow the number of black women in technology and give underprivileged girls better opportunities.
+
+* **[Black Girls Code](http://www.blackgirlscode.com/)**
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Kimberly_Bryant_(technologist))**
+* **[What Black Girls Code founder says Silicon Valley still gets wrong in fixing its diversity problem](https://www.bizjournals.com/sanjose/news/2018/05/18/black-girls-code-kimberly-bryant-visionary-awards.html)**
+
+<hr>
+
 ## Women
 
 ### Ada Lovelace
@@ -109,6 +129,8 @@ Dr. Yvonne Marie Andrés was one of the earliest people to utilize the Internet 
 Former Chief Technology Office of Cisco Systems, where she founded its Worldwide Education focus and Advanced Internet Initiatives, and continued to promote the Internet in academic environments and K-12 schools. She also led Cisco's participation in Internet Society activities internationally. Parker carries the distinction of being the first individual to successfully sue a spammer, who forged her domain name, in a lawsuit that helped to advance legal understanding of the digital frontier.
 
 * **[Internet Hall of Fame](https://www.internethalloffame.org/inductees/tracy-laquey-parker)**
+
+<hr>
 
 ## LGBTQ
 
@@ -174,28 +196,56 @@ Guion Bluford Jr., Ph.D. is an American aerospace engineer, retired U.S. Air For
 * **[Wikipedia link](https://en.wikipedia.org/wiki/Guion_Bluford)**
 
 ### Philip Emeagwali
+<img src="images/figures/philip_emeagwali.jpg" align="right" height="100px">
 During his doctoral fellowship at the University of Michigan in the 1980s, Philip Emeagwali researched how to simulate the detection of oil reservoirs through the use of computers. Originally from Nigeria, he knew more about oil drilling than many of his contemporaries, and he used more than 65,000 microprocessors instead of the proposed eight supercomputers, breaking computation speed records.
 
-### Kennedy Reed
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Philip_Emeagwali)**
+* **[Personal website](http://www.emeagwali.com/)**
+
+### John Thompson
+<img src="images/figures/john_thompson.png" align="right" height="100px">
+When John Thompson was chairman and CEO of computer security software company Symantec, he was the only African American to hold such a position at a major tech company. He is now the CEO of Virtual Instruments and is the only black man on Microsoft's board of directors.
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/John_W._Thompson)**
 
 ### Gerald Lawson
+<img src="images/figures/gerald_lawson.png" align="right" height="100px">
+In the 1970s, Gerald Lawson created the first video game console with interchangeable cartridges at Fairchild Semiconductor, paving the way for the future of gaming. He died in 2011.
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Jerry_Lawson_(engineer))**
 
 ### Wanda Austin
+<img src="images/figures/wanda_austin.jpg" align="right" height="100px">
+Wanda Austin is the president and CEO of the Aerospace Corporation, a non-profit that assists and contributes to national space programs. When she was senior vice president of the Engineering and Technology Group in the early 2000s, she led a staff of 1,000 engineers and scientists.
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Wanda_Austin)**
 
 ### Lester Lyles
+<img src="images/figures/lester_lyles.jpg" align="right" height="100px">
+Lester Lyles is the chair of the National Academies Committee on the rationale and goals of the U.S. civil space program. He holds degrees in mechanical and nuclear engineering. He formerly served as the Air Force's vice chief of staff and as the commander of the Air Force Materiel Command at Wright-Patterson Air Force Base in Ohio. He was also appointed to President Obama’s Intelligence Advisory Board.
 
-### Herman Chinery-Hesse
-https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.html
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Lester_Lyles)**
+* **[Biography](http://www.af.mil/About-Us/Biographies/Display/Article/106412/general-lester-l-lyles/)**
 
 ### Satya Nadella
+<img src="images/figures/satya_nadella.jpg" align="right" height="100px">
+Satya Narayana Nadella is an Indian American business executive. CEO of Microsoft, and was previously Executive Vice President of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms, developer tools and cloud computing services.
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Satya_Nadella)**
 
 ### Sundar Pichai
+<img src="images/figures/sundar_pichai.jpg" align="right" height="100px">
+Sundar Pichai is an Indian American business executive and the chief executive officer (CEO) of Google Inc.
+
+* **[Wikipedia link](https://en.wikipedia.org/wiki/Sundar_Pichai)**
+
+<hr>
 
 ## Reference Links
 
 ### Multiple Categories
 
-* https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html
+* [They did the math: How NASA's black mathematicians multiplied success](https://edition.cnn.com/2016/12/09/us/hidden-figures-nasa-trnd/index.html)
 * [Women and People of Color who Invented the Internet](http://msmagazine.com/blog/2012/06/04/the-women-and-people-of-color-who-invented-the-internet/)
 
 ### Women
@@ -203,24 +253,20 @@ https://edition.cnn.com/2012/01/26/tech/herman-chinery-hesse-technology/index.ht
 
 ### LGBTQ
 
-* http://www.algbtical.org/2A%20SCIENCE.htm
-* https://blog.newrelic.com/2016/06/23/10-lgbt-computer-science-pioneers/
-* https://www.noglstp.org/publications-documents/queer-scientists-of-historical-note/
-* http://www.ibtimes.com/queer-science-alan-turing-sally-ride-734205
+* [List of LGBTQ Scientists](http://www.algbtical.org/2A%20SCIENCE.htm)
+* [LGBTQ Computer Science Pioneers](https://blog.newrelic.com/2016/06/23/10-lgbt-computer-science-pioneers/)
+* [Queer Scientists of Historical Note](https://www.noglstp.org/publications-documents/queer-scientists-of-historical-note/)
+* [Queer Science, From Alan Turing To Sally Ride](http://www.ibtimes.com/queer-science-alan-turing-sally-ride-734205)
 
 ### People of Color
 
 * [Computer History Must Include People of Color](https://www.eetimes.com/author.asp?section_id=36&doc_id=1331908)
 * [20 Notable Black Innovators in Tech](https://mashable.com/2013/02/03/black-innovators/)
 
+<hr>
+
 ## Submission Guidelines
 
 * Ensure the figure is notable. [Use the Wikipedia guidelines](https://en.wikipedia.org/wiki/Wikipedia:Notability). We don't want to list your neighbor Nancy who happens to fix PCs in her spare time! ;)
-* For LGBTQ figures, please ensure they are historical or publically "out"
-* For figures who fit into several categories - I have no idea yet
-* Please order figures alphabetically by surname
-
-## Should we include these folks?
-They're involved in tech, but not especially close to computing or its forebears
-
-### James E West
+* For LGBTQ figures, please ensure they are historical and/or publically "out"
+* If possible, add a Wikipedia link for each figure, and up to two other links of interest
