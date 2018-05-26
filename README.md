@@ -33,6 +33,7 @@ Organizations bringing diversity to tech.
 - [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
 - [FrameShift Consulting](https://frameshiftconsulting.com/) - FrameShift open sources their fantastic Ally Skills Workshop, Conference incident response materials and many other resources allowing to scale creating welcoming, inclusive, diverse cultures.
 - [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
+- [Geek Girls Carrots](http://gocarrots.org) - Attracting women to tech since 2011.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
