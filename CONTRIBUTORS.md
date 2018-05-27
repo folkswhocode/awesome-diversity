@@ -12,11 +12,12 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Sujay Maheshwari](https://github.com/taurusismysign).
 - [Fabian Matern](https://github.com/fabianmatern).
 - [Daniel Ossorio](https://github.com/dossorio).
+- [Anthony Powell](https://github.com/antpowell).
 - [Benjamin Reitzammer](https://github.com/benjmin-r).
 - [Lizzie Siegle](https://github.com/elizabethsiegle).
 - [Markus Tacker](https://github.com/coderbyheart).
+- [Wiktoria Tomzik](https://github.com/wiktoriatomzik).
 - [Matt Trask](https://github.com/matthewtrask).
 - [Marina Vega](https://github.com/marinavega).
 - [Natalia Vidal](https://github.com/erikiva).
 - [Joe Winter](https://github.com/joeventures).
-- [Powell, Anthony](https://github.com/antpowell).
