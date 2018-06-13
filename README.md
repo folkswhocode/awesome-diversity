@@ -15,7 +15,7 @@ This list contains a variety of resources on diversity, more specifically divers
 - [Talks](#talks)
 - [Advocates](#advocates)
 - [Books](#books)
-- [Figures](/FIGURES.md)
+- [Diverse Figures in Tech History](/FIGURES.md)
 
 ## Organizations
 
