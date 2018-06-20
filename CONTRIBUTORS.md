@@ -9,6 +9,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Iván González](https://github.com/dreamingechoes).
 - [Shauna Gordon-McKeon](https://github.com/shaunagm).
 - [Iñaki Iglesias](https://github.com/lenguadeplata).
+- [Steph Locke](https://github.com/stephlocke).
 - [Sujay Maheshwari](https://github.com/taurusismysign).
 - [Fabian Matern](https://github.com/fabianmatern).
 - [Daniel Ossorio](https://github.com/dossorio).
