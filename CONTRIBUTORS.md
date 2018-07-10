@@ -12,6 +12,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Steph Locke](https://github.com/stephlocke).
 - [Sujay Maheshwari](https://github.com/taurusismysign).
 - [Fabian Matern](https://github.com/fabianmatern).
+- [Hussani Oliveira](https://github.com/hussani).
 - [Daniel Ossorio](https://github.com/dossorio).
 - [Anthony Powell](https://github.com/antpowell).
 - [Benjamin Reitzammer](https://github.com/benjmin-r).
