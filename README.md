@@ -127,8 +127,9 @@ Will Evans and Sinduja Rangarajan.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - By Avivah Wittenberg-Cox.
 - [Important Women in CS Who Aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/) - By Hillel Wayne.
 - [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/) - By Coraline Ada.
+- [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - By Rachel Thomas.
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) - By Suzannah Weiss.
-- [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - Tobbe Gyllebring.
+- [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - By Tobbe Gyllebring.
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
 - [Stop saying that diversity means lowering the bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) - By Leah Fessler.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) - By Joy Ebertz.
