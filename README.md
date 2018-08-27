@@ -140,6 +140,7 @@ Will Evans and Sinduja Rangarajan.
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion Is Everyone's Business: Q&A For Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
+- [White Fragility in Teaching and Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) - By Mary Jo Madda.
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 - [Why Diverse Teams Matter](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter) - By Brad McLain, Catherine Ashcraft and Lucy Sanders.
 - [Why Don't European Girls Like Science Or Technology?](https://news.microsoft.com/europe/features/dont-european-girls-like-science-technology/) - By Microsoft.
