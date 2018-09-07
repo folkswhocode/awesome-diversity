@@ -174,6 +174,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 People who publicly support and empower underrepresented groups in tech.
 
 - [FolksWhoCode](https://github.com/folkswhocode) - Organization which aims for a more rich and diverse tech community.
+- [Trans*H4CK](http://www.transhack.org/) - Empowering trans, gender non conforming, agender and nonbinary people.
 
 ## Books
 
