@@ -1,4 +1,4 @@
-# Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 :sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
 
@@ -41,6 +41,7 @@ Organizations bringing diversity to tech.
 - [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - Program to connect young black males with all they need to become high-performing entrepreneurs and technologists.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
+- [Khan Academy](https://www.khanacademy.org/) -A personalized learning resource for all ages.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
