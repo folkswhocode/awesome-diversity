@@ -28,6 +28,7 @@ Organizations bringing diversity to tech.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
+- [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
 - [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
@@ -85,7 +86,9 @@ The following are collections of various types of resources (talks, documents, b
 ## Actionable Resources
 The following is a list of individual resources with actionable items for being an ally in any diversity efforts.
 
+- [5 Ally Actions | June 15, 2018](https://code.likeagirl.io/5-ally-actions-june-15-2018-cfdef1e590cb) - By Better Allies.
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) - By Catherine Ashcraft.
+- [Bias and Hiring: How We Hire UX Researchers](https://medium.com/firefox-ux/bias-and-hiring-how-we-hire-ux-researchers-6f9db9f8d670) - By Sharon Bautista.
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) - By Jason Wong.
 - [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) - By Karolina Szczur.
 - [Dev Team Diversity #Realtalk](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - By Sarah Mei.
@@ -127,6 +130,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 Will Evans and Sinduja Rangarajan.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
+- [How to maintain a predominantly white workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) - By Leniece Flowers Brissett.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - By Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - By Avivah Wittenberg-Cox.
 - [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) - By Rachel Thomas.
@@ -144,11 +148,13 @@ Will Evans and Sinduja Rangarajan.
 - [The Other Diversity Dividend](https://hbr.org/2018/07/the-other-diversity-dividend) - By Paul Gompers and Silpa Kovvali.
 - [The Perverse Incentives That Help Incels Thrive In Tech](https://www.wired.com/story/ellen-pao-the-perverse-incentives-that-help-incels-thrive-in-tech/) - By Ellen Pao.
 - [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
+- [There’s a big difference between an intention to be inclusive and a strategy](https://qz.com/work/1308410/theres-a-big-difference-between-an-intention-to-be-inclusive-and-a-strategy/) - By Kim Crayton.
 - [This Is How Sexism Works in Silicon Valley My lawsuit failed. Others won’t.](https://www.thecut.com/2017/08/ellen-pao-silicon-valley-sexism-reset-excerpt.html) - By Ellen Pao.
 - [ThoughtWorks' Insights On Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion Is Everyone's Business: Q&A For Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
+- [We need more radical solutions for diversity and inclusion](https://medium.com/projectinclude/we-need-more-radical-solutions-for-diversity-and-inclusion-26edaf4ab5a4) - By Ellen K. Pao.
 - [What does it mean to be a feminist coder in 2018?](https://dev.to/xrwang/what-does-it-mean-to-be-a-feminist-coder-in-2018--25i3) - By Xiaowei R. Wang.
 - [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
 - [White Fragility in Teaching and Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) - By Mary Jo Madda.
