@@ -19,7 +19,9 @@ This list contains a variety of resources on diversity, more specifically divers
 
 ## Organizations
 Organizations bringing diversity to tech.
-
+- [Texas Southern University Computer Society](tsucs.com) - Organization 
+devoted to helping students in computer science learn about new and 
+modern technology and developing their skillsets and resumes. 
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
