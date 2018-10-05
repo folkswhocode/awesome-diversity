@@ -20,6 +20,7 @@ This list contains a variety of resources on diversity, more specifically divers
 ## Organizations
 Organizations bringing diversity to tech.
 
+- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
@@ -36,6 +37,7 @@ Organizations bringing diversity to tech.
 - [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
 - [Geek Girls Carrots](http://gocarrots.org) - Attracting women to tech since 2011.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
+- [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) - Organization that offers tech related courses, such as 3-D Tinkercad design, to girls and women, at no cost.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 - [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
