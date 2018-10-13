@@ -20,8 +20,13 @@ This list contains a variety of resources on diversity, more specifically divers
 ## Organizations
 Organizations bringing diversity to tech.
 
+- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
+- [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
+- [Black Girl Gamers](http://blackgirlgamers.com) - A safe space that supports black girl gamers. Also found on:
+  - [Twitch](https://www.twitch.tv/blackgirlgamers)
+  - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
@@ -36,6 +41,8 @@ Organizations bringing diversity to tech.
 - [Fund Club](http://joinfundclub.com/) - Fund Club raises money to numerous initiatives for mental health, diversity, inclusion, anti-harassment and more.
 - [Geek Girls Carrots](http://gocarrots.org) - Attracting women to tech since 2011.
 - [Girl Develop It](https://www.girldevelopit.com/) - Nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
+- [Girl Gamers](https://www.reddit.com/r/GirlGamers/) - Community for ladies to discuss gaming, women in geek culture, and experiences that occur as a result of gender.
+- [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) - Organization that offers tech related courses, such as 3-D Tinkercad design, to girls and women, at no cost.
 - [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 - [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
@@ -124,6 +131,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Ellen Pao: Has Anything Really Changed For Women In Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) - By Ellen Pao.
 - [Emotional Labor Is The Unpaid Job Men Still Don't Understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) - By Gemma Hartley.
 - [Engineering A Culture Of Psychological Safety](https://blog.intercom.com/psychological-safety/) - By John Looney.
+- [Gaming While Black: Casual Racism To Cautious Optimism](https://www.engadget.com/2015/01/16/gaming-while-black-casual-racism-to-cautious-optimism/) - By Jessica Conditt.
 - [Gender Bias? A Transgender Perspective!](https://code.likeagirl.io/gender-bias-a-transgender-perspective-de27f2cd3837) - By Daniela Petruzalek.
 - [Getting free of toxic tech culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) - By Valerie Aurora and Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
@@ -142,6 +150,7 @@ Will Evans and Sinduja Rangarajan.
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - By Tuukka Ojala, a Blind Software Engineer.
 - [Stop saying that diversity means lowering the bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) - By Leah Fessler.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) - By Joy Ebertz.
+- [Striving to Be Seen: Black Girl Gamers On Twitch](https://www.engadget.com/2018/08/15/black-girl-gamers-twitch-partner-communities/) - By Jessica Conditt.
 - [Struggling For Investments, Silicon Valley Women Reluctant To Speak Out On Harassment](https://www.npr.org/sections/alltechconsidered/2017/11/16/564498133/struggling-for-investments-silicon-valley-women-reluctant-to-speak-out-on-harass) - By Laura Sydell.
 - [Survey finds that in tech, retaliation for speaking up about workplace discrimination is common](https://www.marketplace.org/2018/07/24/business/retaliation-workplace) - By Janet Nguyen and David Brancaccio.
 - [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html) - By Patricia Aas.
