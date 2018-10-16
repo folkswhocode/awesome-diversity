@@ -24,3 +24,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Marina Vega](https://github.com/marinavega).
 - [Natalia Vidal](https://github.com/erikiva).
 - [Joe Winter](https://github.com/joeventures).
+- [Nyah Check](https://github.com/Ch3ck).
