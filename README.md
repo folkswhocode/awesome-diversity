@@ -34,6 +34,7 @@ Organizations bringing diversity to tech.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
+- [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers. 
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
 - [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
