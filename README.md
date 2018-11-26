@@ -56,6 +56,7 @@ Organizations bringing diversity to tech.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
 - [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
 - [Ping A Programadoras](https://pingprogramadoras.org/) - Group of women and people of non-binary gender whose purposes are the reflection and empowerment in the field of technology.
+- [Project Alloy](https://www.projectalloy.org/) - Project Alloy is building a more inclusive technical community, one conference at a time, by offering financial grants and other resources to people who are early in their career and underrepresented in tech.
 - [Project Include](http://projectinclude.org/) - Non-profit organization that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry.
 - [PyLadies](http://www.pyladies.com/) - International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 - [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) - Queer and feminist maker space located in Beijing, China, providing a learning space and community actions for change.
