@@ -15,9 +15,10 @@ This list contains a variety of resources on diversity, more specifically divers
 - [Talks](#talks)
 - [Advocates](#advocates)
 - [Books](#books)
-- [Diverse Figures in Tech History](/FIGURES.md)
+- [Diverse Figures In Tech History](/FIGURES.md)
 
 ## Organizations
+
 Organizations bringing diversity to tech.
 
 - [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
@@ -34,7 +35,8 @@ Organizations bringing diversity to tech.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
-- [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers. 
+- [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers.
+- [Diversify Tech](https://www.diversifytech.co/) - A collection of resources for underrepresented people in tech.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
 - [EquitableTech](http://equitabletech.com) - Non-profit organization working to diversify tech, with a focus on open source.
@@ -70,6 +72,7 @@ Organizations bringing diversity to tech.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
 - [TLA Women In Tech](http://tlawomenintech.org/) - Working group dedicated to increasing gender balance and equality in tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
+- [Women Love Tech](https://womenlovetech.com/) - Women Love Tech was launched with the vision to share a passion and love for technology. Since then, Women Love Tech has evolved into a lifestyle technology digital magazine for women who love all things tech that can enhance their everyday lifestyle.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
@@ -78,6 +81,7 @@ Organizations bringing diversity to tech.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
 ## Events
+
 The following is a list of events that make a special effort to be inclusive and encourage diversity
 
 - [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
@@ -87,6 +91,7 @@ The following is a list of events that make a special effort to be inclusive and
 - [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
 
 ## Ally Resources
+
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
@@ -94,6 +99,7 @@ The following are collections of various types of resources (talks, documents, b
 - [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan.
 
 ## Actionable Resources
+
 The following is a list of individual resources with actionable items for being an ally in any diversity efforts.
 
 - [5 Ally Actions | June 15, 2018](https://code.likeagirl.io/5-ally-actions-june-15-2018-cfdef1e590cb) - By Better Allies.
@@ -117,6 +123,7 @@ The following is a list of individual resources with actionable items for being 
 - [You Have A Culture Problem. Here's How To Avoid A Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - By Ellen K. Pao.
 
 ## Posts
+
 Both articles and posts on diversity and inclusiveness in technology.
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) - By Allyson Kapin.
@@ -191,6 +198,7 @@ Will Evans and Sinduja Rangarajan.
 - [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) - By Leah Fessler.
 
 ## Talks
+
 Talks and presentations about diversity, consensual software and safe communities.
 
 - [9 Ways To Stop Hurting And Start Helping Women In Tech](https://www.youtube.com/watch?v=pUVhF3jDG08) - By Brianna Wu.
@@ -203,18 +211,20 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
 
-
 ## Advocates
+
 People who publicly support and empower underrepresented groups in tech.
 
 - [FolksWhoCode](https://github.com/folkswhocode) - Organization which aims for a more rich and diverse tech community.
 
 ## Books
+
 Books that offer deep insights on diversity and inclusiveness in technology.
 
 - [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
 ## Contributing
+
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
 
 ----------------------------
