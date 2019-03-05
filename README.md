@@ -7,6 +7,7 @@ This list contains a variety of resources on diversity, more specifically divers
 **Always work in progress.**
 
 ## Contents
+
 - [Organizations](#organizations)
 - [Events](#events)
 - [Ally Resources](#ally-resources)
@@ -73,6 +74,7 @@ Organizations bringing diversity to tech.
 - [TLA Women In Tech](http://tlawomenintech.org/) - Working group dedicated to increasing gender balance and equality in tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Love Tech](https://womenlovetech.com/) - Women Love Tech was launched with the vision to share a passion and love for technology. Since then, Women Love Tech has evolved into a lifestyle technology digital magazine for women who love all things tech that can enhance their everyday lifestyle.
+- [Women Make](https://womenmake.com/) - A community where women are in the forefront.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
