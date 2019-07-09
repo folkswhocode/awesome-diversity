@@ -152,6 +152,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) - By Valerie Aurora and Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
 Will Evans and Sinduja Rangarajan.
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) - By María Arias de Reyna Domínguez.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - By André Arko.
@@ -212,6 +213,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Diversity In Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - By Maxine Williams.
 - [Enforcing Your Code Of Conduct: Effective Incident Response](https://www.youtube.com/watch?v=nizfHxg8y3o) - By Audrey Eschright.
 - [Going Beyong The Pipeline Problem](https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - By Pantheon.
+- [Intro To Accessibility](https://www.youtube.com/watch?v=qQj4JLfQvtI) - By Eric Bailey.
 - [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - By Lena Reinhard.
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
