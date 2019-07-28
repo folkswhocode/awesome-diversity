@@ -182,6 +182,7 @@ Will Evans and Sinduja Rangarajan.
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion Is Everyone's Business: Q&A For Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [Tools For White Guys Who Are Working For Social Change](http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based) - By Chris Crass.
+- [Trans-Inclusive Design](http://alistapart.com/article/trans-inclusive-design/) - By Erin White.
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
 - [We Need More Radical Solutions For Diversity And Inclusion](https://medium.com/projectinclude/we-need-more-radical-solutions-for-diversity-and-inclusion-26edaf4ab5a4) - By Ellen K. Pao.
 - [What Does It Mean To Be A Feminist Coder In 2018?](https://dev.to/xrwang/what-does-it-mean-to-be-a-feminist-coder-in-2018--25i3) - By Xiaowei R. Wang.
