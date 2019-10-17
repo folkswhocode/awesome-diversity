@@ -135,7 +135,8 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - By Karolina Szczur.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - By Rachel Nabors.
-- [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber
+- [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
+- [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie. 
 - [Advice For Women In Tech Who Are Tired Of Talking About Women In Tech](https://blog.valerieaurora.org/2018/03/11/advice-for-women-in-tech-who-are-tired-of-talking-about-women-in-tech/) - By Valerie Aurora.
 - [Becoming A 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer) - By Kate Heddleston.
 - [Bias, Diversity, Backlash, Manifestos, And Rebuttals](https://code.likeagirl.io/bias-diversity-backlash-manifestos-and-rebuttals-834f7425180e) - By Lorena A Barba.
