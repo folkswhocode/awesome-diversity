@@ -84,6 +84,7 @@ Organizations bringing diversity to tech.
 - [Women Who Tech](https://www.womenwhotech.com/) - Nonprofit organization to bring together talented and renowned women breaking new ground in technology to transform the world and inspire change.
 - [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
+- [Natives in Tech](https://nativesintech.org) - Natives in Tech is a coalition of Native and non-Native software developers whose goal is to support software application development that reinforces Native beliefs, knowledge, and identity. 
 
 ## Events
 
@@ -204,6 +205,7 @@ Will Evans and Sinduja Rangarajan.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - By Stefanie K. Johnson and David R. Hekman.
 - [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) - By Project Include's Laura I. Gómez.
 - [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) - By Leah Fessler.
+- [Diversity in Tech](https://www.linkedin.com/pulse/diversity-tech-adam-e-recvlohe/) - By Adam Recvlohe
 
 ## Talks
 
@@ -220,6 +222,7 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [Survival Tips For Women In Tech](https://www.pscp.tv/w/1BdGYepvvLQGX) - By Patricia Aas.
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
+- [Building Open Source Software that Empowers Native Communities](https://www.youtube.com/watch?v=AAdrbrYNnPw) - By Adam Recvlohe (@arecvlohe)
 
 ## Advocates
 
