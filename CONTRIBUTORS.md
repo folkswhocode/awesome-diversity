@@ -16,6 +16,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Hussani Oliveira](https://github.com/hussani).
 - [Daniel Ossorio](https://github.com/dossorio).
 - [Anthony Powell](https://github.com/antpowell).
+- [Adam Recvlohe](https://github.com/arecvlohe).
 - [Benjamin Reitzammer](https://github.com/benjmin-r).
 - [Lizzie Siegle](https://github.com/elizabethsiegle).
 - [Markus Tacker](https://github.com/coderbyheart).
