@@ -32,7 +32,7 @@ Organizations bringing diversity to tech.
 - [Black Girl Gamers](http://blackgirlgamers.com) - A safe space that supports black girl gamers. Also found on:
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
-- [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
+- [Blacks In Technology](https://www.blacksintechnology.net/) - Organization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
