@@ -58,6 +58,7 @@ Organizations bringing diversity to tech.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [OS4W](https://www.os4w.org) - OS4W aims to be a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
+- [Out In Tech](https://outintech.com) - Non-profit organization that unites the LGBTQ+ tech community.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
 - [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
@@ -96,6 +97,7 @@ The following is a list of events that make a special effort to be inclusive and
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
 - [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 - [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
+- [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space or thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
 ## Ally Resources
 
