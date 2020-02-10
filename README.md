@@ -97,7 +97,7 @@ The following is a list of events that make a special effort to be inclusive and
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
 - [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 - [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
-- [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space or thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
+- [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
 ## Ally Resources
 
