@@ -33,6 +33,7 @@ Organizations bringing diversity to tech.
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
+- [Black Women in Computational Biology](https://www.blackwomencompbio.org/) - An intersectional community of Black women who are working toward (or interested in) a career that combines computational and quantitative sciences with biology.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
@@ -70,6 +71,7 @@ Organizations bringing diversity to tech.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
 - [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
+- [RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A non-profit organisation that aims to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
