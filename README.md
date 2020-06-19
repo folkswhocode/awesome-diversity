@@ -39,6 +39,7 @@ Organizations bringing diversity to tech.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
+- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A team of students and researchers working together to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
 - [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers.
 - [Diversify Tech](https://www.diversifytech.co/) - A collection of resources for underrepresented people in tech.
@@ -71,7 +72,6 @@ Organizations bringing diversity to tech.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
 - [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
-- [RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A non-profit organisation that aims to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
