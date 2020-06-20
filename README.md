@@ -32,12 +32,15 @@ Organizations bringing diversity to tech.
 - [Black Girl Gamers](http://blackgirlgamers.com) - A safe space that supports black girl gamers. Also found on:
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
+- [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
+- [Black Women in Computational Biology](https://www.blackwomencompbio.org/) - An intersectional community of Black women who are working toward (or interested in) a career that combines computational and quantitative sciences with biology.
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Organization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
+- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A team of students and researchers working together to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
 - [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers.
 - [Diversify Tech](https://www.diversifytech.co/) - A collection of resources for underrepresented people in tech.
