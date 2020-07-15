@@ -39,6 +39,7 @@ Organizations bringing diversity to tech.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
+- [Computing Research Association](https://cra.org/) - Uniting industry, academia and government to advance computing research and change the world.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 - [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A team of students and researchers working together to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
