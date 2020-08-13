@@ -60,6 +60,7 @@ Organizations bringing diversity to tech.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [OS4W](https://www.os4w.org) - OS4W aims to be a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
+- [Open Source Diversity](https://opensourcediversity.org/) - Open Source Diversity is a community gathering resources, building networks and collaborating for more diversity & inclusion in free & open source software communities.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [Out In Tech](https://outintech.com) - Non-profit organization that unites the LGBTQ+ tech community.
 - [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
