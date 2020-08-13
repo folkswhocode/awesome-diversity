@@ -103,6 +103,7 @@ The following is a list of events that make a special effort to be inclusive and
 - [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 - [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
 - [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
+- [PyMCon](https://pymc-devs.github.io/pymcon//) - PyMCon is an asynchronous-first virtual conference for the Bayesian community organized by the PyMC community with a strong emphasis on diversity and inclusion from the organizing committee to attendees.
 
 ## Ally Resources
 
