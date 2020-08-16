@@ -15,6 +15,7 @@ This list contains a variety of resources on diversity, more specifically divers
 - [Events](#events)
 - [Ally Resources](#ally-resources)
 - [Actionable Resources](#actionable-resources)
+- [Projects](#projects)
 - [Posts](#posts)
 - [Talks](#talks)
 - [Advocates](#advocates)
@@ -85,6 +86,7 @@ Organizations bringing diversity to tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Love Tech](https://womenlovetech.com/) - Women Love Tech was launched with the vision to share a passion and love for technology. Since then, Women Love Tech has evolved into a lifestyle technology digital magazine for women who love all things tech that can enhance their everyday lifestyle.
 - [Women Make](https://womenmake.com/) - A community where women are in the forefront.
+- [Women Hack For Non-Profits](http://www.womenhackfornonprofits.com/) - A community of women in tech building open source projects for non-profit organizations and individuals with a cause.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
@@ -110,6 +112,7 @@ The following is a list of events that make a special effort to be inclusive and
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
+- [Contributor Covenant](https://www.contributor-covenant.org/) - By Coraline Ada Ehmke.
 - [Inclusion At Work](https://inclusionatwork.co) - By Jennifer Kim.
 - [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan.
 
@@ -136,6 +139,20 @@ The following is a list of individual resources with actionable items for being 
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.
 - [You Have A Culture Problem. Here's How To Avoid A Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - By Ellen K. Pao.
+
+## Projects
+
+Open source projects which support underrepresented groups and where you can participate.
+
+- [A11y Project](https://www.a11yproject.com/) - A community-driven effort to make digital accessibility easier.
+- [Accessibility Cloud](https://www.accessibility.cloud/) - Simplifies sharing and obtaining accessibility data in a standardized, future-proof, easy-to-use way.
+- [CHAOSS D&I Workgroup](https://chaoss.community/metrics/) - Collection of resources for projects to create a diversity and inclusion report.
+- [Chayn](https://chayn.co/) - A volunteer network tackling gender based violence globally by creating intersectional survivor-led resources on the web.
+- [Diversity Tickets](https://diversitytickets.org/) - Help events reach a more diverse audience. And help you to find these events.
+- [SignDict](https://signdict.org/) - An open dictionary for sign language.
+- [The Supernova Project](http://supernovaproject.org/) - A global effort that aims to contribute to addressing abuse within the LGBTQIA+ communities.
+- [Wheelmap](https://wheelmap.org/) - The world's biggest crowdsourced and open database for wheelchair-accessible places.
+- [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women’s achievements.
 
 ## Posts
 
