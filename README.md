@@ -60,6 +60,7 @@ Organizations bringing diversity to tech.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [OS4W](https://www.os4w.org) - OS4W aims to be a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
+- [Open Source Diversity](https://opensourcediversity.org/) - Open Source Diversity is a community gathering resources, building networks and collaborating for more diversity & inclusion in free & open source software communities.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [Out In Tech](https://outintech.com) - Non-profit organization that unites the LGBTQ+ tech community.
 - [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
@@ -101,9 +102,10 @@ The following is a list of events that make a special effort to be inclusive and
 
 - [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 - [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+- [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
 - [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
 - [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
-- [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
+- [PyMCon](https://pymc-devs.github.io/pymcon//) - PyMCon is an asynchronous-first virtual conference for the Bayesian community organized by the PyMC community with a strong emphasis on diversity and inclusion from the organizing committee to attendees.
 - [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
 ## Ally Resources

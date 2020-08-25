@@ -2,6 +2,7 @@
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
+- [Oriol Abril Pla](https://github.com/OriolAbril)
 - [María Arias de Reyna](https://github.com/Delawen).
 - [Alex Cureton-Griffiths](https://alexcg1.github.io).
 - [Jorge Galindo](https://github.com/jorgegalindocruces).
