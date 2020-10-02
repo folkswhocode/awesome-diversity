@@ -95,9 +95,10 @@ Organizations bringing diversity to tech.
 - [Write/Speak/Code](https://www.writespeakcode.com/) - A 501c3, tax-exempt non-profit that hosts an annual conference and meetup events designed to help you fully own your expertise through writing, speaking, and open source.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 - [Natives in Tech](https://nativesintech.org) - Natives in Tech is a coalition of Native and non-Native software developers whose goal is to support software application development that reinforces Native beliefs, knowledge, and identity. 
+- [Brazilians in Tech](https://braziliansintech.com/)- Brazilians in Tech is the first Brazilian platform to bring together the most relevant opportunities in the world of Science and Technology for women working or interested in digital technologies.
 - [Latinas in computing](https://latinasincomputing.org/) - A community created by and for the Latinas in Computing with a mission of promoting their representation and success in computing-related fields.
--[Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
--[Brazilians in Tech](https://braziliansintech.com/)- Brazilians in Tech is the first Brazilian platform to bring together the most relevant opportunities in the world of Science and Technology for women working or interested in digital technologies.
+- [Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
+
 ## Events
 
 The following is a list of events that make a special effort to be inclusive and encourage diversity
