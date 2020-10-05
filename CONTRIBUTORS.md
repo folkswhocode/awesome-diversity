@@ -21,6 +21,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Benjamin Reitzammer](https://github.com/benjmin-r).
 - [Lizzie Siegle](https://github.com/elizabethsiegle).
 - [Markus Tacker](https://github.com/coderbyheart).
+- [Peter Thaleikis](https://github.com/spekulatius).
 - [Wiktoria Tomzik](https://github.com/wiktoriatomzik).
 - [Matt Trask](https://github.com/matthewtrask).
 - [Marina Vega](https://github.com/marinavega).
