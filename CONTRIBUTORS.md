@@ -5,6 +5,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Oriol Abril Pla](https://github.com/OriolAbril)
 - [María Arias de Reyna](https://github.com/Delawen).
 - [Alex Cureton-Griffiths](https://alexcg1.github.io).
+- [Ana Dias](https://github.com/baiana).
 - [Jorge Galindo](https://github.com/jorgegalindocruces).
 - [Manuel Gómez](https://github.com/tasugo).
 - [Iván González](https://github.com/dreamingechoes).
