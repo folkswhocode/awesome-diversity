@@ -43,6 +43,7 @@ Organizations bringing diversity to tech.
 - [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A team of students and researchers working together to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
 - [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers.
+- [Disability Visibility Project](https://disabilityvisibilityproject.com/) - An online community dedicated to creating, sharing, and amplifying disability media and culture.
 - [Diversify Tech](https://www.diversifytech.co/) - A collection of resources for underrepresented people in tech.
 - [Diversity Charter](http://diversitycharter.org/) - Charter to show that you care about diversity.
 - [Django Girls](https://djangogirls.org/) - Non-profit organization and a community that empowers and helps women to organize programming workshops.
