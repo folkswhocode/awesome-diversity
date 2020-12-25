@@ -36,6 +36,7 @@ Organizations bringing diversity to tech.
 - [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
 - [Black Women in Computational Biology](https://www.blackwomencompbio.org/) - An intersectional community of Black women who are working toward (or interested in) a career that combines computational and quantitative sciences with biology.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
+- [Brown Girl, Tech World](https://www.browngirltech.world/) - Digital safe space and non profit organization for brown women & girls navigating the tech industry.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
