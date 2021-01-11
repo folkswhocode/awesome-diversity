@@ -29,6 +29,7 @@ Organizations bringing diversity to tech.
 - [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
+- [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
 - [Black Girl Gamers](http://blackgirlgamers.com) - A safe space that supports black girl gamers. Also found on:
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
