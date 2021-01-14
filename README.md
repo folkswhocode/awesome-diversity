@@ -81,6 +81,7 @@ Organizations bringing diversity to tech.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
+- [She Can Code](https://shecancode.io/) - An organization with the mission of empower women to enter and remain in the tech industry.
 - [Techqueria](https://techqueria.org/) - A non-profit organization that serves the largest community of Latinx in Tech.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
 - [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
