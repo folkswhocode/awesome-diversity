@@ -79,6 +79,7 @@ Organizations bringing diversity to tech.
 - [Rails Girls](http://railsgirls.com/) - Organization which aims to give tools and a community for women to understand technology and to build their ideas.
 - [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
+- [RightsTech Women](https://rightstech.org) - Switzerland-based nonprofit that combines robotics, technology and human rights training for girls and women. 
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
 - [She Can Code](https://shecancode.io/) - An organization with the mission of empower women to enter and remain in the tech industry.
