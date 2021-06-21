@@ -87,6 +87,7 @@ Organizations bringing diversity to tech.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
 - [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
+- [TLA Black Women In Tech](https://theblackwomenintech.com/) - Not-for-profit organisation dedicated to building bridges of opportunities in tech by enabling black female talents to excel and companies to have access to black women of talent.
 - [TLA Women In Tech](http://tlawomenintech.org/) - Working group dedicated to increasing gender balance and equality in tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Love Tech](https://womenlovetech.com/) - Women Love Tech was launched with the vision to share a passion and love for technology. Since then, Women Love Tech has evolved into a lifestyle technology digital magazine for women who love all things tech that can enhance their everyday lifestyle.
