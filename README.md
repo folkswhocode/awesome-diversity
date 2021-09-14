@@ -221,6 +221,7 @@ Will Evans and Sinduja Rangarajan.
 - [Tools For White Guys Who Are Working For Social Change](http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based) - By Chris Crass.
 - [Trans-Inclusive Design](http://alistapart.com/article/trans-inclusive-design/) - By Erin White.
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - By Ellen Pao.
+- [Using Behavioral Science To Make Designs More Equitable](https://medium.com/indeed-design/using-behavioral-science-to-make-designs-more-equitable-654bbb1941ce) - By Rachel Rosenberg
 - [We Need More Radical Solutions For Diversity And Inclusion](https://medium.com/projectinclude/we-need-more-radical-solutions-for-diversity-and-inclusion-26edaf4ab5a4) - By Ellen K. Pao.
 - [What Does It Mean To Be A Feminist Coder In 2018?](https://dev.to/xrwang/what-does-it-mean-to-be-a-feminist-coder-in-2018--25i3) - By Xiaowei R. Wang.
 - [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
