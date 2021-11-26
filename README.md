@@ -124,6 +124,7 @@ The following are collections of various types of resources (talks, documents, b
 - [Contributor Covenant](https://www.contributor-covenant.org/) - By Coraline Ada Ehmke.
 - [Inclusion At Work](https://inclusionatwork.co) - By Jennifer Kim.
 - [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan.
+- [Practical Diversity and Inclusion](https://www.rowlandm.com/) - By Rowland Mosbergen.
 
 ## Actionable Resources
 
@@ -141,6 +142,7 @@ The following is a list of individual resources with actionable items for being 
 - [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
+- [Improving Diversity and Inclusion in Senior Leadership: A workshop to help recruit diverse senior leaders](https://www.rowlandm.com/2021/11/05/resource-improving-diversity-and-inclusion-in-senior-leadership-a-workshop-to-help-recruit-diverse-senior-leaders-2/) - By Rowland Mosbergen.
 - [Increase Diversity In Our Speaker Line Up](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - By Soledad Penadés.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
 - [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
@@ -258,6 +260,8 @@ Talks and presentations about diversity, consensual software and safe communitie
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) - By Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - By Rebekah Michael.
 - [Building Open Source Software that Empowers Native Communities](https://www.youtube.com/watch?v=AAdrbrYNnPw) - By Adam Recvlohe (@arecvlohe)
+- [Missing narratives in discussions around diversity and inclusion in research software engineering](https://www.rowlandm.com/2021/11/05/missing-narratives-in-discussions-around-diversity-and-inclusion-in-research-software-engineering/) - By Rowland Mosbergen.
+- [Unconscious bias – does it really matter?](https://www.rowlandm.com/2021/06/04/video-resource-unconscious-bias-does-it-really-matter/) - By Rowland Mosbergen.
 
 ## Advocates
 
