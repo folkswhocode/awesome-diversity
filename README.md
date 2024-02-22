@@ -137,6 +137,7 @@ The following is a list of individual resources with actionable items for being 
 - [Dev Team Diversity #Realtalk](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - By Sarah Mei.
 - [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - By Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
+- [Guide To Allyship](https://guidetoallyship.com) - By amélie lamont. 
 - [How A Common Interview Question Fuels The Gender Pay Gap (And How To Stop It)](https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) - By Claire Cain Miller.
 - [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
