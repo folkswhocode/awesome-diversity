@@ -12,6 +12,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Shauna Gordon-McKeon](https://github.com/shaunagm).
 - [Krystal H.P](https://github.com/SeskaBoom).
 - [Iñaki Iglesias](https://github.com/lenguadeplata).
+- [Andrea Ida Malkah Klaura](https://github.com/jackieklaura).
 - [Steph Locke](https://github.com/stephlocke).
 - [Sujay Maheshwari](https://github.com/taurusismysign).
 - [Fabian Matern](https://github.com/fabianmatern).
