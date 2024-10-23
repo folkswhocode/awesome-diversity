@@ -104,6 +104,7 @@ Organizations bringing diversity to tech.
 - [Brazilians in Tech](https://braziliansintech.com/)- Brazilians in Tech is the first Brazilian platform to bring together the most relevant opportunities in the world of Science and Technology for women working or interested in digital technologies.
 - [Latinas in computing](https://latinasincomputing.org/) - A community created by and for the Latinas in Computing with a mission of promoting their representation and success in computing-related fields.
 - [Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
+- [TechnoLatinas](https://www.linkedin.com/company/technolatinas/) - A community for those who identify as women, have a Latino heart, and want to get involved in the world of technology. It is a space where we seek to amplify voices, share, make visible, empower and inspire other women.
 
 ## Events
 
