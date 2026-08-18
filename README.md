@@ -173,6 +173,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - By Rachel Nabors.
 - [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 - [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie. 
+- [A Work Strategy For Autistic Adults](https://www.maskedbutaware.nl/en/learn/work-strategy-for-autistic-adults) - A practical guide to identifying sustainable work conditions, communication needs and useful adjustments. By Masked But Aware.
 - [Advice For Women In Tech Who Are Tired Of Talking About Women In Tech](https://blog.valerieaurora.org/2018/03/11/advice-for-women-in-tech-who-are-tired-of-talking-about-women-in-tech/) - By Valerie Aurora.
 - [Becoming A 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer) - By Kate Heddleston.
 - [Bias, Diversity, Backlash, Manifestos, And Rebuttals](https://code.likeagirl.io/bias-diversity-backlash-manifestos-and-rebuttals-834f7425180e) - By Lorena A Barba.
