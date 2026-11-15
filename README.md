@@ -155,6 +155,7 @@ Open source projects which support underrepresented groups and where you can par
 
 - [A11y Project](https://www.a11yproject.com/) - A community-driven effort to make digital accessibility easier.
 - [Accessibility Cloud](https://www.accessibility.cloud/) - Simplifies sharing and obtaining accessibility data in a standardized, future-proof, easy-to-use way.
+- [No Stairs Please](https://nostairsplease.com/) - Free directory of verified ground-floor and elevator-access live music venues across North America.
 - [CHAOSS D&I Workgroup](https://chaoss.community/metrics/) - Collection of resources for projects to create a diversity and inclusion report.
 - [Chayn](https://chayn.co/) - A volunteer network tackling gender based violence globally by creating intersectional survivor-led resources on the web.
 - [Diversity Tickets](https://diversitytickets.org/) - Help events reach a more diverse audience. And help you to find these events.
